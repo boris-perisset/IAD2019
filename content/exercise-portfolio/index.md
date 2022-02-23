@@ -64,10 +64,9 @@ Nachfolgender Schlüssel für die Bewertung dient als Richtlinie:
 * Vertraute Interface-Konzepte wurden verwendet
 * Typografische Struktur unterstützt Führung
 
-
 ### Grafisches Konzept (35 %)
 * Der grafische Aufbau ist schlüssig und durchgängig
-* Typografische Abstufung und Grössenverhältnisse sind sinnvoll gewählt
-* Grafische Sprache entspricht dem Inhalt
-* Screenarchitektur überlegt
-* Zweckmässigkeit gegeben
+* Visuelle Hierachien(Typografie, Grössenverhältnisse, Farben, Formen) sind sinnvoll gewählt
+* Die inhaltliche Erzählweise ist visuell zweckmässig inszeniert
+* Screenarchitektur ist durchdacht
+
